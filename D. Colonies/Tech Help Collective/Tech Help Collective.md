@@ -24,6 +24,7 @@ How do we make sure everyone can use the tools?
 1. Technology Research
 ![[thc-research.png]]
 2. Broadcasting knowledge
-   ![[thc-broadcast.png]]
+![[thc-broadcast.png]]
 
 
+## Index

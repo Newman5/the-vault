@@ -20,10 +20,10 @@ The reality is even if we had the best intending, most brilliant of leaders to g
 
 Our governing systems are outdated, bureaucratic messes. Trust in institutions is at all-time lows. Governments work not to advance the quality of life of their citizens, to bring social justice and happiness; but to protect the interests of those in power. The media does the same, serving private interests rather than the public’s. Our leaders do more to divide than to unite us. Society sometimes feels like it’s being pulled in opposing directions, ready to snap. 
 
-Capital and power have concentrated in the hands of the few. Benefiting from low-cost access to resources and global logistics networks, large corporations have been monopolizing entire industries. Large accumulations of capital diminish the possibility of fair competition for small businesses and individuals. Geographical distance, limitations to fund transfers and miscommunication handicaps interaction. Everyone else is left to play by the rules of the powerful, or be eaten.
+Capital and power have concentrated in the hands of the few. Benefiting from low-cost access to resources and global logistics networks, large corporations have been monopolizing entire industries. Large accumulations of capital diminish the possibility of fair competition for small businesses and individuals. Geographical distance, limitations to fund transfers and miscommunication handicaps interaction. Everyone else is left to play by the rules of the powerful, or be eaten. 
 
 ![[bigfishsmallfish.jpg]]
-
+ _can you see the fish?_
 > Big fish eat little fish -- always have, ~~always will.~~<div style="text-align: right"> Allan Dare Pearce</div>
 
 These are the symptoms of the same fundamental problem. The way we organize our societies results in power structures that are highly concentrated among a small percentage of the population. This small percentage acts in their best, often misguided, interests. Public good is foregone. The people are left feeling powerless against the combined might of politicians, media, and capital.
